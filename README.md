@@ -8,8 +8,6 @@ The official software is Windows-only — this project reverse-engineers the USB
 ---
 
 ## Screenshot
-
-> _(add screenshot here)_
 <img width="2552" height="1388" alt="image" src="https://github.com/user-attachments/assets/c1e4efaa-6e99-4181-b8f2-33be52b0d168" />
 <img width="2552" height="1388" alt="image" src="https://github.com/user-attachments/assets/658a0644-e3c5-49a3-9d6d-9eae9903ccbb" />
 <img width="2552" height="1388" alt="image" src="https://github.com/user-attachments/assets/8e8b799c-c8ad-43d1-9c8e-3e6e5b206740" />
